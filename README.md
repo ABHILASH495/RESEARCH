@@ -1,17 +1,24 @@
-# Complete Machine Learning and Data Science
+# Machine Learning Projects
 
-![VisitorsBadge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Complete_Machine_Learning_and_Data_Science&color=55acb7&style=for-the-badge&logo=Github)    
+## [A 6 Step Framework for Approaching Machine Learning Projects](A_6_Step_Framework_for_Approaching_Machine_Learning_Projects.md)
 
-[![Languages](https://img.shields.io/github/languages/count/Mathews-Tom/Complete_Machine_Learning_and_Data_Science?style=flat-square)](#)
-[![Top Languages](https://img.shields.io/github/languages/top/Mathews-Tom/Complete_Machine_Learning_and_Data_Science?style=flat-square)](#)
+## Content
 
-This repository contains all of the code, notebooks, images and other materials related to the [Complete Machine Learning and Data Science]((https://dbourke.link/ZTMmlcourse)) on zerotomastery.io based on my course work.
-
-[Getting Started Anaconda, Miniconda and Conda](https://whimsical.com/getting-started-anaconda-miniconda-and-conda-BD751gt65nKjAD5i1CNEXU)
-
-PS: The notebooks offered in the original repo has been modified to reflect my learningas well as accomodating for my local enfironment. I am running the content on Google Colab powered by my local Jupyter Notebook server. Also, I am running on Apple M1 Pro Macbook Pro 2021 with TensorFlow version 2.8.0. For the milestone projects, because certain features on TensorFlow have not yet been implemented for Apple Silicon, I am using the Collab GPU and in my region I have only been able to get the Tesla P100 GPU.
-
-- [Notebooks](Notebooks) - All the notebooks created through the course with my personal modifications.
-- [Slides](Slides) - Course content slides
-
-[Course Material](https://github.com/Mathews-Tom/ZTM-Course-Contents/tree/main/Complete_Machine_Learning_and_Data_Science)
+- Preparatory Material
+  - [Slides](slides)
+  - Notebooks
+    - [Introduction to Pandas](notebooks/01.01-Pandas_Exercises.ipynb)
+      - [Pandas Exercises](notebooks/01.01-Pandas_Exercises)
+      - [Pandas Exercises Solution](notebooks/01.02-Pandas_Exercises_Solution.ipynb)
+    - [Introduction to NumPy](notebooks/02-Introduction_to_NumPy.ipynb)
+      - [NumPy Exercises](notebooks/02.01-NumPy_Exercises.ipynb)
+      - [NumPy Exercises Solution](notebooks/02.02-NumPy_Exercises_Solution.ipynb)
+    - [Introduction to MatPlotLib](notebooks/03-Introduction_to_MatPlotLib.ipynb)
+      - [MatPlotLib Exercises](notebooks/03.01-MatPlotLib_Exercises.ipynb)
+      - [MatPlotLib Exercises Solution](notebooks/03.02-MatPlotLib_Exercises_Solution.ipynb)
+    - [Introduction to Scikit-Learn](notebooks/04-Introduction_to_Scikit_Learn.ipynb)
+      - [Scikit-Learn Exercises](notebooks/04.01-Scikit_Learn_Exercises.ipynb)
+      - [Scikit-Learn Exercises Solution](notebooks/04.02-Scikit_Learn_Exercises_Solution.ipynb)
+- [Day 1 - End to End Heart Disease Classification](notebooks/05-End_to_End_Heart_Disease_Classification.ipynb)
+- [Day 2 - End to End Bluebook Bulldozer Price Regression](notebooks/06-End_to_End_Bluebook_Bulldozer_Price_Regression.ipynb])
+- [Day 3 - End to End Dog Vision](notebooks/07-End_to_End_Dog_Vision.ipynb)
