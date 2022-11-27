@@ -5,7 +5,7 @@
 ## Content
 
 - Preparatory Material
-  - [Slides](slides)
+  - [Machine Learning Overview](Machine-Learning-Overview.pdf)
   - Notebooks
     - [Introduction to Pandas](notebooks/01.01-Pandas_Exercises.ipynb)
       - [Pandas Exercises](notebooks/01.01-Pandas_Exercises)
