@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Machine Learning Workshops
 
 ## [A 6 Step Framework for Approaching Machine Learning Projects](A_6_Step_Framework_for_Approaching_Machine_Learning_Projects.md)
 
